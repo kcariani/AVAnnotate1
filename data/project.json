@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "kcariani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4028912?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "kcariani",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-05-14T19:08:17.179Z",
-    "updated_at": "2025-05-14T19:08:17.179Z"
-  }
+    "updated_at": "2025-05-14T19:08:17.179Z",
+    "generate_pages_site": false
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "2d66f14d-ccb6-43b0-aa6e-b9d981f78b30": {
+      "content": [],
+      "created_at": "2025-05-14T19:08:17.182Z",
+      "created_by": "kcariani",
+      "title": "AVAnnotate test",
+      "updated_at": "2025-05-14T19:08:17.182Z",
+      "updated_by": "kcariani",
+      "autogenerate": {
+        "enabled": false,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "2d66f14d-ccb6-43b0-aa6e-b9d981f78b30"
+  ]
 }
